@@ -1,2 +1,2 @@
 # PowerPythonMethod
-Simple, hello world like python method for power in math.
+Simple, but powerful, hello world like python method for power in math.
